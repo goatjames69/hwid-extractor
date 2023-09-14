@@ -1,0 +1,7 @@
+F:\Syth\jamesxd\jamesxd\bin\Debug\jamesxd.exe.config
+F:\Syth\jamesxd\jamesxd\bin\Debug\jamesxd.exe
+F:\Syth\jamesxd\jamesxd\bin\Debug\jamesxd.pdb
+F:\Syth\jamesxd\jamesxd\obj\Debug\jamesxd.csproj.AssemblyReference.cache
+F:\Syth\jamesxd\jamesxd\obj\Debug\jamesxd.csproj.CoreCompileInputs.cache
+F:\Syth\jamesxd\jamesxd\obj\Debug\jamesxd.exe
+F:\Syth\jamesxd\jamesxd\obj\Debug\jamesxd.pdb
